@@ -31,6 +31,14 @@
   width: 35%;
   min-height: 500px;
 }
+.differentColorBackground {
+  position: fixed;
+  z-index: -1;
+  bottom: 0;
+  background: hsl(195deg, 20%, 86%);
+  height: 40%;
+  width: 100%;
+}
 
 .controlColumn {
   width: 50%;

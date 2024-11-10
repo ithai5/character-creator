@@ -88,6 +88,8 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+
+      <div className={styles.differentColorBackground}/>
     </main>
   );
 }
