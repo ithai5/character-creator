@@ -1,3 +1,9 @@
+
+@media only screen and (max-width: 700px) {
+  .footer {
+    display: none;
+  }
+}
 .footer {
   position: relative;
   padding: 64px;
