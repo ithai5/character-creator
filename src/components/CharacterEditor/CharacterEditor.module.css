@@ -1,6 +1,7 @@
 .characterEditor {
   padding-top: 128px;
   padding-bottom: 64px;
+  position: relative;
 }
 
 .maxWidthWrapper {
@@ -33,7 +34,7 @@
 }
 .differentColorBackground {
   position: fixed;
-  z-index: -1;
+
   bottom: 0;
   background: hsl(195deg, 20%, 86%);
   height: 40%;
